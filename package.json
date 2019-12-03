@@ -1,0 +1,37 @@
+{
+    "name": "make-apps-theme",
+    "displayName": "Make Apps Theme",
+    "description": "A theme to make apps with - based on the Hybrid Next Theme",
+    "icon": "images/icon.png",
+    "version": "1.0.0",
+    "publisher": "dannyconnell",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+	"keywords": [
+        "theme",
+		"danny connell",
+        "make apps with danny",
+        "relaxed theme",
+        "easy on the eyes",
+        "readable theme",
+        "relaxed colors",
+        "hybrid next"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Make Apps Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/make-apps-color-theme.json"
+            }
+        ]
+    },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dannyconnell/vscode-make-apps-theme.git"
+	}
+}
