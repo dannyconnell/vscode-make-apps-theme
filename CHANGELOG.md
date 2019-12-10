@@ -5,6 +5,7 @@ All notable changes to the **Make Apps Theme** extension will be documented in t
 ### **1.0.1** - Dec 10 2019
 
 - Fixed title bar and status bar background colors
+- Updated screenshots
 
 ### **1.0.0** - Dec 3 2019
 

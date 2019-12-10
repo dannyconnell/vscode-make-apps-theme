@@ -1,0 +1,17 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+}
+
+div {
+  border: 2px solid #F1C232;
+}
+
+.fixed-width {
+  max-width: 200px;
+}
+
+.other-stuff {
+  border-width: 10px !important;
+  padding: 10px;
+  margin: 20px auto;
+}
