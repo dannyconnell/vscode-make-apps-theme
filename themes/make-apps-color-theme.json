@@ -28,6 +28,8 @@
     "terminal.ansiYellow": "#de935f",
     "statusBar.background": "#1c2428",
 
+    "window.activeBorder": "#1c2428",
+    "window.inactiveBorder": "#1c2428",
     "foreground": "#c5c8c6",
     "contrastBorder": "#00000000",
     "focusBorder": "#00000000",
