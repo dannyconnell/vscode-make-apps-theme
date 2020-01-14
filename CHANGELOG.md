@@ -2,6 +2,11 @@
 
 All notable changes to the **Make Apps Theme** extension will be documented in this file.
 
+### **1.0.3** - Jan 14 2020
+
+- Fixed purple status bar (when no folder open)
+- Improved the matching bracket style
+
 ### **1.0.2** - Dec 10 2019
 
 - Fixed window border color

@@ -27,6 +27,7 @@
     "terminal.ansiWhite": "#6c7a80",
     "terminal.ansiYellow": "#de935f",
     "statusBar.background": "#1c2428",
+    "statusBar.noFolderBackground": "#1c2428",
 
     "window.activeBorder": "#1c2428",
     "window.inactiveBorder": "#1c2428",
@@ -87,7 +88,8 @@
     "notifications.background": "#4b7293",
     "notifications.foreground": "#fff",
     "textLink.foreground": "#81a2be",
-    "textLink.activeForeground": "#81a2be"
+    "textLink.activeForeground": "#81a2be",
+    "editorBracketMatch.border": "#41627e99"
   },
   "tokenColors": [
     {
