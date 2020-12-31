@@ -3,8 +3,11 @@
     "displayName": "Make Apps Theme",
     "description": "A relaxed, easy-on-the-eyes theme based on the Hybrid Next Theme",
     "icon": "images/icon.png",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "dannyconnell",
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.40.0"
     },

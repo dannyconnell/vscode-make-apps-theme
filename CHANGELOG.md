@@ -2,6 +2,10 @@
 
 All notable changes to the **Make Apps Theme** extension will be documented in this file.
 
+### **1.0.4** - Dec 31 2020
+
+- Fixed color of CSS property names within Media Queries
+
 ### **1.0.3** - Jan 14 2020
 
 - Fixed purple status bar (when no folder open)

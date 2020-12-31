@@ -481,7 +481,7 @@
       "name": "Media Query (S/CSS)",
       "scope": "meta.at-rule.media",
       "settings": {
-        "foreground": "#6c7a80"
+        "foreground": "#c5c8c6"
       }
     },
     {
